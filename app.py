@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Тестовый отчёт", layout="wide")
 
-st.title("📊 Тестовый отчёт Streamlit")
+st.title("📊 BuyByCode")
 st.write("Это пример приложения для загрузки и визуализации Excel-файла.")
 
 # Загрузка файла
